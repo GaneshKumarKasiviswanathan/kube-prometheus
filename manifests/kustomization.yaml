@@ -30,6 +30,7 @@ resources:
 - kube-state-metrics-serviceAccount.yaml
 - kube-state-metrics-serviceMonitor.yaml
 - kubernetes-prometheusRule.yaml
+- newservice.yaml
 - node-exporter-clusterRole.yaml
 - node-exporter-clusterRoleBinding.yaml
 - node-exporter-daemonset.yaml
